@@ -1,4 +1,4 @@
-package coca-java-tutorial;
+package org.coca;
 
 public class Main {
     public static void main(String[] args) {
